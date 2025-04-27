@@ -21,9 +21,9 @@ System loading...
 
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizamuru-dev&show_icons=true&theme=dracula&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shizamuru-dev&theme=dracula&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=shizamuru-dev&show_icons=true&theme=dracula&hide_border=true" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shizamuru-dev&theme=dracula&hide_border=true" height="180px"/>
 
 </div>
 
