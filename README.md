@@ -8,28 +8,24 @@ System loading...
 > Loading backup version...
 > SUCCESS: Quantum link established.
 ```
-<p align="center">
-  <a href="https://github.com/shizamuru-dev">
-    <img src="https://img.shields.io/badge/shizamuru--dev-0a0f0d?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
-  </a>
-  <a href="https://gitlab.com/shizamuru">
-    <img src="https://img.shields.io/badge/shizamuru-0a0f0d?style=for-the-badge&logo=gitlab&logoColor=fc6d26&labelColor=1a1a1a" />
-  </a>
-  <a href="https://twitter.com/agroxi">
-    <img src="https://img.shields.io/badge/agroxi-0a0f0d?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" />
-  </a>
-  <a href="https://glitched.network">
-    <img src="https://img.shields.io/badge/glitched.network-0a0f0d?style=for-the-badge&logo=firefoxbrowser&logoColor=ff7139&labelColor=1a1a1a" />
-  </a>
-</p>
+<div align="center">
+
+[![shizamuru-dev](https://img.shields.io/badge/shizamuru--dev-0a0f0d?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/shizamuru-dev)
+[![shizamuru](https://img.shields.io/badge/shizamuru-0a0f0d?style=for-the-badge&logo=gitlab&logoColor=fc6d26&labelColor=1a1a1a)](https://gitlab.com/shizamuru)
+[![agroxi](https://img.shields.io/badge/agroxi-0a0f0d?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a)](https://twitter.com/agroxi)
+[![glitched.network](https://img.shields.io/badge/glitched.network-0a0f0d?style=for-the-badge&logo=firefoxbrowser&logoColor=ff7139&labelColor=1a1a1a)](https://glitched.network)
+
+</div>
+
+----
 
 
-
-
-
----
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizamuru-dev&show_icons=true&theme=dracula&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shizamuru-dev&theme=dracula&hide_border=true)
+
+</div>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
