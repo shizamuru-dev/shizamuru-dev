@@ -20,13 +20,6 @@ System loading...
 ----
 
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shizamuru-dev&show_icons=true&theme=dracula&hide_border=true" height="180px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shizamuru-dev&theme=dracula&hide_border=true" height="180px"/>
-
-</div>
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
 
